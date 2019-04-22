@@ -1,0 +1,28 @@
+.file_uploading {
+    margin-top: 15px;
+}
+.hidden {
+    display: none;
+}
+.display_image { 
+	width:100%; 
+	float:left; 
+}
+.display_image ul{ 
+	margin:0;
+	padding:0; 
+	list-style-type:none;
+}
+.display_image ul li{ 
+	padding:7px; 
+	border:2px solid #ccc;
+	float:left;
+	margin:10px 7px;
+	background:none; 
+	width:auto; 
+	height:auto;
+}
+.image_size {
+	 width:100%;
+     max-width:600px;
+}
